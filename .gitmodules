@@ -1,0 +1,6 @@
+[submodule "Group_Project/ikfast_pybind"]
+	path = Group_Project/ikfast_pybind
+	url = https://github.com/yijiangh/ikfast_pybind.git
+[submodule "Group_Project/robofin"]
+	path = Group_Project/robofin
+	url = https://github.com/fishbotics/robofin.git
